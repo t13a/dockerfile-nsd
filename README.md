@@ -1,6 +1,6 @@
 # NSD
 
-Dockerfile for [NSD](https://nsd.net/), an authoritative DNS name serve. Based on [Alpine Linux](https://alpinelinux.org/).
+Dockerfile for [NSD](https://www.nlnetlabs.nl/nsd/), an authoritative DNS name server. Based on [Alpine Linux](https://alpinelinux.org/).
 
 ## Getting started
 
